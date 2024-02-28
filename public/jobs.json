@@ -17,6 +17,7 @@
         "contact_information": {
             "email": "jobs@techinnovations.com",
             "phone": "+1 (555) 123-4567"
+            
         }
     },
     {
@@ -35,6 +36,7 @@
         "contact_information": {
             "email": "careers@analyticspro.com",
             "phone": "+1 (555) 987-6543"
+            
         }
     },
     {
@@ -53,6 +55,7 @@
         "contact_information": {
             "email": "careers@globalmarketing.com",
             "phone": "+1 (555) 555-5555"
+            
         }
     },
     {
@@ -71,6 +74,7 @@
         "contact_information": {
             "email": "jobs@creativesolutions.com",
             "phone": "+1 (555) 123-4567"
+            
         }
     },
     {
@@ -89,6 +93,7 @@
         "contact_information": {
             "email": "careers@serviceexcellence.com",
             "phone": "+1 (555) 987-6543"
+            
         }
     },
     {
@@ -108,6 +113,7 @@
         "contact_information": {
             "email": "careers@investmentsolutions.com",
             "phone": "+1 (555) 555-5555"
+            
         }
     }
 ]
