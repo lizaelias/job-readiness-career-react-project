@@ -1,0 +1,118 @@
+
+
+ [
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/LC0NTNJ/Logo-samsung-removebg-preview.png",
+        "job_title": "Software Engineer",
+        "company_name": "Tech Innovations Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Any",
+        "job_type": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We are seeking a talented software engineer to join our team and develop innovative solutions. You will be responsible for designing, coding, and testing software applications.",
+        "job_responsibility": ["Develop high-quality software solutions", "Collaborate with team members to brainstorm and create new features", "Troubleshoot and debug applications", "Conduct code reviews"],
+        "education_requirement": "Bachelor's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software development",
+        "contact_information": {
+            "email": "jobs@techinnovations.com",
+            "phone": "+1 (555) 123-4567"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co/PhWypPB/google-removebg-preview.png",
+        "job_title": "Data Scientist",
+        "company_name": "Analytics Pro LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "job_type": "Contract",
+        "salary": "$90,000 - $120,000",
+        "job_description": "We are looking for a skilled data scientist to analyze large datasets and provide valuable insights. You will work closely with stakeholders to understand business requirements and develop data-driven solutions.",
+        "job_responsibility": ["Collect, clean, and preprocess data", "Perform statistical analysis and develop predictive models", "Communicate findings to non-technical stakeholders", "Collaborate with cross-functional teams"],
+        "education_requirement": "Master's degree in Data Science, Statistics, or related field",
+        "experiences": "3+ years of experience in data analysis and machine learning",
+        "contact_information": {
+            "email": "careers@analyticspro.com",
+            "phone": "+1 (555) 987-6543"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co/vh1BzwT/netflix-removebg-preview.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Global Marketing Solutions",
+        "remote_or_onsite": "Remote",
+        "location": "Any",
+        "job_type": "Full-time",
+        "salary": "$70,000 - $90,000",
+        "job_description": "We are seeking an experienced marketing manager to oversee our marketing campaigns and strategies. You will be responsible for developing marketing plans, managing budgets, and analyzing campaign performance.",
+        "job_responsibility": ["Develop and implement marketing strategies", "Manage advertising campaigns across multiple channels", "Track and analyze campaign performance metrics", "Collaborate with internal teams and external partners"],
+        "education_requirement": "Bachelor's degree in Marketing, Business, or related field",
+        "experiences": "5+ years of experience in marketing",
+        "contact_information": {
+            "email": "careers@globalmarketing.com",
+            "phone": "+1 (555) 555-5555"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "https://i.ibb.co/TBzTMKy/Career-Hub-removebg-preview.png ",
+        "job_title": "Graphic Designer",
+        "company_name": "Creative Solutions Agency",
+        "remote_or_onsite": "Remote",
+        "location": "Any",
+        "job_type": "Part-time",
+        "salary": "$25 - $35 per hour",
+        "job_description": "We are looking for a talented graphic designer to create visually appealing designs for various projects. You will work closely with clients to understand their needs and deliver high-quality designs.",
+        "job_responsibility": ["Create visual concepts and designs", "Collaborate with clients to understand project requirements", "Use design software to produce high-quality graphics", "Revise designs based on feedback"],
+        "education_requirement": "Bachelor's degree in Graphic Design or related field (preferred)",
+        "experiences": "2+ years of experience in graphic design",
+        "contact_information": {
+            "email": "jobs@creativesolutions.com",
+            "phone": "+1 (555) 123-4567"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "https://i.ibb.co/8j2sdNm/airbnb-removebg-preview.png",
+        "job_title": "Customer Support Specialist",
+        "company_name": "Service Excellence Co.",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "job_type": "Full-time",
+        "salary": "$40,000 - $50,000",
+        "job_description": "We are hiring a customer support specialist to assist customers with product inquiries, issues, and complaints. You will provide exceptional customer service via phone, email, and chat.",
+        "job_responsibility": ["Respond promptly to customer inquiries", "Resolve customer issues and complaints", "Provide product information and assistance", "Document customer interactions and feedback"],
+        "education_requirement": "High school diploma or equivalent (Associate's or Bachelor's degree preferred)",
+        "experiences": "1+ years of experience in customer service",
+        "contact_information": {
+            "email": "careers@serviceexcellence.com",
+            "phone": "+1 (555) 987-6543"
+        }
+    },
+    {
+        "id": 6,
+        "logo": "https://i.ibb.co/N3sbjzq/tesla-removebg-preview.png",
+       
+        "job_title": "Financial Analyst",
+        "company_name": "Investment Solutions Ltd.",
+        "remote_or_onsite": "Remote",
+        "location": "Any",
+        "job_type": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "job_description": "We are seeking a skilled financial analyst to provide financial planning and analysis support. You will analyze financial data, prepare reports, and make strategic recommendations to improve financial performance.",
+        "job_responsibility": ["Analyze financial data and trends", "Prepare financial reports and forecasts", "Evaluate investment opportunities", "Provide financial advice and recommendations"],
+        "education_requirement": "Bachelor's degree in Finance, Accounting, or related field",
+        "experiences": "3+ years of experience in financial analysis",
+        "contact_information": {
+            "email": "careers@investmentsolutions.com",
+            "phone": "+1 (555) 555-5555"
+        }
+    }
+]
+
+
+
+
+
