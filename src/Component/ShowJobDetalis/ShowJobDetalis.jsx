@@ -2,6 +2,12 @@ import { AiTwotoneDollarCircle } from "react-icons/ai";
 import { useLoaderData, useParams } from "react-router-dom";
 import CommonBanner from "../CommonBanner/CommonBanner";
 
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import { saveJobApplication } from "../Utilitis/storageJobApplicaton";
+
+
+
 const ShowJobDetalis = () => {
   const jobs = useLoaderData();
   const { id } = useParams();
@@ -10,9 +16,13 @@ const ShowJobDetalis = () => {
   
   const job = jobs.find(job => job.id === intId);
 
-  console.log(job);
+//  tostify 
+   const handleJobApply =()=>{
+    saveJobApplication(intId);
+    toast("apply your job seccessfully");
+   }
 
-  
+
 
 
   return (
@@ -68,11 +78,12 @@ const ShowJobDetalis = () => {
      </div>
 
      <div>
-     <button class="btn bg-gradient-to-r from-blue-500 to-purple-500 font-bold text-white w-full mt-2">Apply Now</button>
+     <button onClick={handleJobApply} class="btn bg-gradient-to-r from-blue-500 to-purple-500 font-bold text-white w-full mt-2">Apply Now</button>
      </div>
   </div>
 </div>
 </div>
+<ToastContainer />
   </div>
 
   );

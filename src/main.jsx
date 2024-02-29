@@ -12,6 +12,7 @@ import ErrorPage from './ErrorPage/ErrorPage';
 import Home from './Component/Home/Home';
 import ShowJobDetalis from './Component/ShowJobDetalis/ShowJobDetalis';
 import Statistics from './Component/Statistics/Statistics';
+import AppliedJob from './Component/AppliedJob/AppliedJob';
 
 
 
@@ -30,6 +31,13 @@ const router = createBrowserRouter([
        path:'/statistics',
        element:<Statistics></Statistics>
       },
+
+      {
+       path:'/appliedJob',
+       element:<AppliedJob></AppliedJob>,
+       loader:()=>fetch('jobs.json')
+      },
+
       {
        path:'/job/:id',
        element:<ShowJobDetalis></ShowJobDetalis>,
@@ -45,4 +53,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <RouterProvider router={router} />
   </React.StrictMode>,
+
+ 
 )
